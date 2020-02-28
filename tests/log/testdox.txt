@@ -4,9 +4,22 @@ Listing Basic
  [x] Title must be set
  [x] Get status method returns basic
  [x] Get method return id
- [x] Has title
+ [x] Get method return title
  [x] Get method return website
  [x] Get method return email
  [x] Get method return twitter
  [x] To array method
+
+Listing Featured
+ [x] Get status method returns featured
+ [x] Get coc method return results
+
+Listing Image
+ [x] No image
+ [x] Full path image
+ [x] Build path image
+
+Listing Premium
+ [x] Get status method returns premium
+ [x] Get description method returns expected results
 
