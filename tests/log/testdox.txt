@@ -9,6 +9,11 @@ Listing Basic
  [x] Get method return email
  [x] Get method return twitter
  [x] To array method
+ [x] Object created
+ [x] Status is set
+ [x] Is status empty
+ [x] Website null
+ [x] Website adds http
 
 Listing Featured
  [x] Get status method returns featured
