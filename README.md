@@ -2,7 +2,7 @@
 
 (Test Driven Development) 
 
-The Project6_Listings_Test demonstrates my ability to create test cases with PHP Unit using an existing project. 
+The Project6_Listings_Test demonstrates my ability to create test cases with PHP Unit using an existing application. 
 
 # How to setup on local machine
 
