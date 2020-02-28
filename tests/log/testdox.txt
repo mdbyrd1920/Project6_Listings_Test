@@ -1,0 +1,12 @@
+Listing Basic
+ [x] Construct must contain data
+ [x] Id must be set
+ [x] Title must be set
+ [x] Get status method returns basic
+ [x] Get method return id
+ [x] Has title
+ [x] Get method return website
+ [x] Get method return email
+ [x] Get method return twitter
+ [x] To array method
+
