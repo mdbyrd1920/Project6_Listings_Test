@@ -17,7 +17,7 @@ class ListingFeaturedTest extends TestCase
        $this->assertEquals('featured', $FeaturedListing->getStatus());
    }
 
-/** @test */
+  /** @test */
     function getCocMethodReturnResults()
     {//Test for the getCoc method
         $data = [
